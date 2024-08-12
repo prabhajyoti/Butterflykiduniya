@@ -9,10 +9,11 @@
 
     <ImageView
         android:id="@+id/imageView7"
-        android:layout_width="121dp"
-        android:layout_height="82dp"
+        android:layout_width="175dp"
+        android:layout_height="89dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.558"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.024"
@@ -34,17 +35,38 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="153dp"
-        android:layout_height="45dp"
+        android:layout_width="103dp"
+        android:layout_height="46dp"
         android:text="About"
-        android:textColor="#C64272"
-        android:textSize="30sp"
+        android:textColor="#C11B73"
+        android:textSize="26sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.189"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.257" />
+        app:layout_constraintVertical_bias="0.263" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="377dp"
+        android:layout_height="473dp"
+        android:text="The Discophora sondaica, commonly known as the Southern Duffer, is a butterfly species in the Nymphalidae family. Found in Southeast Asia, including India and Indonesia, it is known for its dark brown wings with bluish or purplish tints, particularly in males. This butterfly thrives in dense, moist forests, often flying low in shaded areas. The Southern Duffer feeds on rotting fruits, tree sap, and occasionally nectar, and it plays a role in pollination and the food web of its ecosystem.
+
+
+
+
+
+
+"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.976" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
