@@ -7,13 +7,12 @@
     android:layout_height="match_parent"
     tools:context=".Activitydiscophora">
 
-    <ImageView
+  <ImageView
         android:id="@+id/imageView7"
         android:layout_width="175dp"
         android:layout_height="89dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.558"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.024"
@@ -29,9 +28,10 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.515"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.162" />
+        app:layout_constraintVertical_bias="0.185" />
 
     <TextView
         android:id="@+id/textView3"
@@ -43,30 +43,24 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.155"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.263" />
+        app:layout_constraintVertical_bias="0.268" />
 
     <TextView
         android:id="@+id/textView9"
-        android:layout_width="377dp"
-        android:layout_height="473dp"
-        android:text="The Discophora sondaica, commonly known as the Southern Duffer, is a butterfly species in the Nymphalidae family. Found in Southeast Asia, including India and Indonesia, it is known for its dark brown wings with bluish or purplish tints, particularly in males. This butterfly thrives in dense, moist forests, often flying low in shaded areas. The Southern Duffer feeds on rotting fruits, tree sap, and occasionally nectar, and it plays a role in pollination and the food web of its ecosystem.
-
-
-
-
-
-
-"
+        android:layout_width="332dp"
+        android:layout_height="415dp"
+        android:text="The Discophora sondaica, commonly known as the Southern Duffer, is a butterfly species in the Nymphalidae family. Found in Southeast Asia, including India and Indonesia, it is known for its dark brown wings with bluish or purplish tints, particularly in males. This butterfly thrives in dense, moist forests, often flying low in shaded areas. The Southern Duffer feeds on rotting fruits, tree sap, and occasionally nectar, and it plays a role in pollination and the food web of its ecosystem."
         android:textColor="@color/black"
         android:textSize="20sp"
-        android:textStyle="italic"
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintHorizontal_bias="0.797"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.976" />
+        app:layout_constraintVertical_bias="0.67" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
