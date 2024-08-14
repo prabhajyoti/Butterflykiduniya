@@ -50,8 +50,8 @@
 
     <TextView
         android:id="@+id/textView15"
-        android:layout_width="348dp"
-        android:layout_height="473dp"
+        android:layout_width="308dp"
+        android:layout_height="469dp"
         android:text="The Jezebel butterfly, scientifically known as Delias eucharis, is a striking and colorful butterfly species found primarily in South and Southeast Asia. It belongs to the family Pieridae, commonly known as the whites and yellows. The Jezebel is easily recognizable due to its distinctive coloration: the upper side of its wings is primarily white with black markings, while the underside is vivid, featuring bright yellow, red, and black patterns.
 
 This butterfly is often seen fluttering around flowers in gardens, forests, and open areas, where it feeds on nectar. The vibrant colors of the Jezebel butterfly serve as a warning to predators about its unpalatability, a defense mechanism common among many butterfly species."
@@ -59,8 +59,8 @@ This butterfly is often seen fluttering around flowers in gardens, forests, and 
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.899" />
+        app:layout_constraintVertical_bias="0.763" />
 </androidx.constraintlayout.widget.ConstraintLayout>

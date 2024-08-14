@@ -42,22 +42,22 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintHorizontal_bias="0.563"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.28" />
+        app:layout_constraintVertical_bias="0.298" />
 
     <TextView
         android:id="@+id/textView18"
-        android:layout_width="349dp"
-        android:layout_height="426dp"
+        android:layout_width="314dp"
+        android:layout_height="399dp"
         android:text="The Malabar Rose scientifically known as Pachliopta pandiyana is a striking butterfly found in the Western Ghats of India and Sri Lanka. It has velvety black wings with bright crimson-red markings and white spots. This medium-sized butterfly, with a wingspan of 80-100 mm, thrives in tropical forests, feeding on nectar and laying eggs on toxic host plants from the Aristolochiaceae family. The Malabar Rose is known for its vivid coloration and plays an important role in pollinatio"
         android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.258"
+        app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.813" />
+        app:layout_constraintVertical_bias="0.746" />
 </androidx.constraintlayout.widget.ConstraintLayout>
