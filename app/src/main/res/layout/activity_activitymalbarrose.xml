@@ -38,7 +38,7 @@
         android:layout_width="276dp"
         android:layout_height="380dp"
         android:text="The Malabar Rose scientifically known as Pachliopta pandiyana is a striking butterfly found in the Western Ghats of India and Sri Lanka. It has velvety black wings with bright crimson-red markings and white spots. This medium-sized butterfly, with a wingspan of 80-100 mm, thrives in tropical forests, feeding on nectar and laying eggs on toxic host plants from the Aristolochiaceae family. The Malabar Rose is known for its vivid coloration and plays an important role in pollinatio"
-        android:textSize="18sp"
+        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

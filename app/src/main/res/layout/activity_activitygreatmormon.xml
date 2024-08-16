@@ -39,7 +39,7 @@
         android:layout_width="304dp"
         android:layout_height="412dp"
         android:text="The Great Mormon butterfly (Papilio memnon) is a large and striking species of swallowtail butterfly found in South and Southeast Asia. It is known for its sexual dimorphism, meaning males and females have different appearances. Males are usually black with iridescent blue or greenish scales, while females can vary significantly, often mimicking other toxic butterflies for protection. The wingspan of the Great Mormon can reach up to 15 cm, making it one of the larger butterflies in its range. They are commonly found in gardens, forests, and areas with abundant host plants like citrus and other Rutaceae species."
-        android:textSize="18sp"
+        android:textSize="16sp"
         android:textStyle="bold"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"

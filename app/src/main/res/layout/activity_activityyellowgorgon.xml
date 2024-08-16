@@ -39,14 +39,14 @@
         android:layout_width="306dp"
         android:layout_height="478dp"
         android:text="The Yellow Gorgon scientific name Meandrusa payeni is a rare butterfly found in South and Southeast Asia. It has large, pale yellow wings with dark edges and unique tail-like extensions on the hindwings. With a wingspan of 100-120 mm, it prefers dense forests and hilly areas. The butterfly feeds on nectar and damp ground minerals, with larvae that feed on Lauraceae plants. Its rarity makes it a species of conservation interest."
-        android:textSize="19sp"
+        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.638"
+        app:layout_constraintHorizontal_bias="0.6"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.849" />
+        app:layout_constraintVertical_bias="0.936" />
 
     <TextView
         android:id="@+id/textView17"
