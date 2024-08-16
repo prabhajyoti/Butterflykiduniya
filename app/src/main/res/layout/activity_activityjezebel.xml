@@ -35,24 +35,9 @@
         app:layout_constraintVertical_bias="0.185" />
 
     <TextView
-        android:id="@+id/textView14"
-        android:layout_width="86dp"
-        android:layout_height="36dp"
-        android:text="About"
-        android:textColor="#974604"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.563"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.251" />
-
-    <TextView
         android:id="@+id/textView15"
-        android:layout_width="308dp"
-        android:layout_height="469dp"
+        android:layout_width="299dp"
+        android:layout_height="455dp"
         android:text="The Jezebel butterfly, scientifically known as Delias eucharis, is a striking and colorful butterfly species found primarily in South and Southeast Asia. It belongs to the family Pieridae, commonly known as the whites and yellows. The Jezebel is easily recognizable due to its distinctive coloration: the upper side of its wings is primarily white with black markings, while the underside is vivid, featuring bright yellow, red, and black patterns.
 
 This butterfly is often seen fluttering around flowers in gardens, forests, and open areas, where it feeds on nectar. The vibrant colors of the Jezebel butterfly serve as a warning to predators about its unpalatability, a defense mechanism common among many butterfly species."
@@ -60,8 +45,23 @@ This butterfly is often seen fluttering around flowers in gardens, forests, and 
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintHorizontal_bias="0.598"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.763" />
+        app:layout_constraintVertical_bias="0.822" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textColor="#9A6D1D"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.256" />
 </androidx.constraintlayout.widget.ConstraintLayout>

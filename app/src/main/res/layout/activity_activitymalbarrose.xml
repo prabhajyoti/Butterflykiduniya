@@ -34,24 +34,9 @@
         app:layout_constraintVertical_bias="0.232" />
 
     <TextView
-        android:id="@+id/textView17"
-        android:layout_width="106dp"
-        android:layout_height="42dp"
-        android:text="About"
-        android:textColor="#129818"
-        android:textSize="22sp"
-        android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.563"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.298" />
-
-    <TextView
         android:id="@+id/textView18"
-        android:layout_width="314dp"
-        android:layout_height="399dp"
+        android:layout_width="276dp"
+        android:layout_height="380dp"
         android:text="The Malabar Rose scientifically known as Pachliopta pandiyana is a striking butterfly found in the Western Ghats of India and Sri Lanka. It has velvety black wings with bright crimson-red markings and white spots. This medium-sized butterfly, with a wingspan of 80-100 mm, thrives in tropical forests, feeding on nectar and laying eggs on toxic host plants from the Aristolochiaceae family. The Malabar Rose is known for its vivid coloration and plays an important role in pollinatio"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -61,4 +46,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.746" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textColor="#116A3F"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.294" />
 </androidx.constraintlayout.widget.ConstraintLayout>
